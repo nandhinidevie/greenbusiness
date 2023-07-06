@@ -1,12 +1,12 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: nandhinidevie.github.io/greenbusiness
+favicon: /-/nandhinidevie.github.io/greenbusiness/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/business-card
 -- fastn.dependency: fastn-community.github.io/site-doc
 
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: nandhinidevie.github.io/greenbusiness/assets
 -- fastn.auto-import: fastn-community.github.io/site-doc
 
 -- fastn.sitemap:

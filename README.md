@@ -1,6 +1,6 @@
 # Overview
 
-[<repo_name>](https://<user_name>.github.io/<repo_name>) will help you create your beautiful business card in no time.
+[greenbusiness](https://nandhinidevie.github.io/greenbusiness) will help you create your beautiful business card in no time.
 
 It provides out-of-the-box documentation features that can be used to create any
 kind of business card of your choice.
@@ -11,7 +11,7 @@ kind of business card of your choice.
 
 ## Get Rolling
 
-[Click here](https://<user_name>.github.io/<repo_name>) to learn how to use this package.
+[Click here](https://nandhinidevie.github.io/greenbusiness) to learn how to use this package.
 
 # [Dive into the Docs](https://fastn-community.github.io/business-card/)
 
