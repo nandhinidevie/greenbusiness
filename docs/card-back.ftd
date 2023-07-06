@@ -1,0 +1,31 @@
+-- import: <user_name>.github.io/<repo_name>
+-- import: fastn-community.github.io/business-card/docs
+
+-- $site-doc.copyright-info: Copyright © 2023 - [<user_name> ](https://<user_name>.github.io/<repo_name>)
+
+;; how-to-use-card-back component arguments (with default values) ------------
+;; optional caption name:
+;; string package-name: business-card
+;; string package-full-name: fastn-community.github.io/business-card
+;; string license-url: https://github.com/fastn-community/business-card/blob/main/LICENSE
+;; module c: business-card
+;; optional string company-name:
+;; optional string company-slogan:
+;; optional ftd.image-src qr-code:
+;; optional string title:
+;; optional string phone-no:
+;; optional string email:
+;; optional string address:
+;; optional ftd.image-src logo: $business-card.default-card-logo
+;; optional ftd.image-src avatar:
+;; optional string github:
+;; string sample-code:
+;; optional string website
+;; --------------------------------------------------------------------------
+
+-- docs.how-to-use-card-back: John Doe
+package-name: <repo_name>
+package-full-name: <user_name>.github.io/<repo_name>
+license-url: https://github.com/<user_name>/<repo_name>/blob/main/LICENSE
+github: https://github.com/<user_name>/<repo_name>
+sample-code: $<repo_name>.back-sample-code

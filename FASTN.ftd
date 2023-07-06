@@ -1,0 +1,23 @@
+-- import: fastn
+
+-- fastn.package: <user_name>.github.io/<repo_name>
+favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/business-card
+-- fastn.dependency: fastn-community.github.io/site-doc
+
+-- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: fastn-community.github.io/site-doc
+
+-- fastn.sitemap:
+
+# Home: index.html
+
+- Overview: index.html
+- Documentation: /how-to-use-card/
+  document: /docs/card.ftd
+
+  - How to Use Card: /how-to-use-card/
+    document: /docs/card.ftd
+  - How to Use Card Back: /how-to-use-card-back/
+    document: /docs/card-back.ftd
